@@ -62,7 +62,7 @@ p {
   border-radius: 25px 25px 0 0;
   padding: 1rem;
   font-size: calc(1vw + 0.5rem);
-  /* white-space: nowrap; */
+  text-align: center;
   font-weight: 600;
 }
 
